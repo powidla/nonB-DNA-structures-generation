@@ -1,6 +1,6 @@
 # Generative models for nonB-DNA structures generation
 
-This repository contains code and data for the article "Z-Flipon Variants reveal the many roles of Z-DNA and Z-RNA in health and disease"
+This repository contains code and data for the article \href{https://github.com/powidla/Secondary-structures-generation}{"Z-Flipon Variants reveal the many roles of Z-DNA and Z-RNA in health and disease"}
 
 The full genome predictions for human and mouse genomes can be downloaded here
 

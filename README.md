@@ -2,9 +2,5 @@
 
 This repository contains code and data for the article [Deep Generative models for generating DNA secondary structure sequences](https://github.com/powidla/Secondary-structures-generation)
 
-The full genome predictions for human and mouse genomes can be downloaded here
 
-To predict Z-DNA flipons on new data please use this colab notebook
-
-## Content
 

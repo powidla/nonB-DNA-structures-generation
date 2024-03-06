@@ -19,14 +19,17 @@ Experiments with deep learning models are stored in [notebooks](https://github.c
 
 - **notebooks** folder contains conducted experiments with training models and evaluation of synthetic data: 
 
-- **Detection.ipynb** - notebook for discriminative analysis of synthetic data.
-- **seq_analysis.ipynb** - notebook for evaluating novelty and diversity and other results.
-- **full_zdna_vqvae.ipynb**, **full_zdna_diff.ipynb**, **full_zdna_wgan.ipynb** - notebooks with training processes and generation of synthetic data. 
+  - **Detection.ipynb** - notebook for discriminative analysis of synthetic data.
+    
+  - **seq_analysis.ipynb** - notebook for evaluating novelty and diversity and other results.
+    
+  - **full_zdna_vqvae.ipynb**, **full_zdna_diff.ipynb**, **full_zdna_wgan.ipynb** - notebooks with training processes and generation of synthetic data. 
 
-**saved_models** folder contains saved model and notebooks for experiments.
+- **saved_models** folder contains saved model and notebooks for experiments.
+    - **Detection.ipynb** - notebook for discriminative analysis of synthetic data.
 
-**figures** folder has results of classification and feature importance results.
-
+- **figures** folder has results of classification and feature importance results.
+   - **Detection.ipynb** - notebook for discriminative analysis of synthetic data.
 
 
 

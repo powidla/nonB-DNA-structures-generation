@@ -30,7 +30,6 @@ Experiments with deep learning models are stored in [notebooks](https://github.c
 
 - **scripts** folder contains additional data from chip-seq experiments and [sparse_vector](https://github.com/Nazar1997/Sparse_vector/tree/8a8b6292ebae6a111845b35c9d890f2fecd301af) for preprocessing.
    
-- **scripts** folder contains additional data from chip-seq experiments and [sparse_vector](https://github.com/Nazar1997/Sparse_vector/tree/8a8b6292ebae6a111845b35c9d890f2fecd301af) for preprocessing.
 
 
 

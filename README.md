@@ -1,4 +1,5 @@
 # Generative models for nonB-DNA structures generation
+## Description
 
 This repository contains code and data for the paper [Deep Generative models for generating DNA secondary structure sequences](https://github.com/powidla/Secondary-structures-generation).
 

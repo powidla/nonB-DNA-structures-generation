@@ -10,7 +10,7 @@ Experiments with deep learning models are stored in [notebooks](https://github.c
 [Z-DNA BERT](https://github.com/mitiau/Z-DNABERT/blob/main/ZDNA-prediction.ipynb) predictions for synthetic data are stored at the [folder](https://github.com/powidla/Secondary-structures-generation/tree/main/zdna_bert).
 
 ## Content
-**Data_preprocessing** folder consists of three notebooks: 
+**data** folder contains fasta and bed files for training purposes: 
 - **data_prep.ipynb** - script to convert original data and extract features into csv.
 - **data_prep_conditional.ipynb** - script to convert original data and extract features with timepoint condition.
 - **datatata_prep.ipynb** - script to handle json and sql initial commits.

@@ -11,19 +11,21 @@ Experiments with deep learning models are stored in [notebooks](https://github.c
 
 ## Content
 **data** folder contains fasta and bed files for training purposes: 
-- **data_prep.ipynb** - script to convert original data and extract features into csv.
-- **data_prep_conditional.ipynb** - script to convert original data and extract features with timepoint condition.
-- **datatata_prep.ipynb** - script to handle json and sql initial commits.
+- both folders have stored data for mouse and human.
+- preprocessed fasta files are available.
+- In addition, data in format for [DeepZ](https://github.com/Nazar1997/DeepZ) are availabe in this folder.
 
-**data_csvs** folder consists of three files: 
+**notebooks** folder contains conducted experiments with training models and evaluation of synthetic data: 
 
-- **df_data (1).csv** - original preprocessed dataset.
-- **df_data_tp=-2.csv** - dataset with timepoints two points behind.
-- **df_data_tp=-3.csv** - dataset with timepoints three points behind.
+- **Detection.ipynb** - notebook for discriminative analysis of synthetic data.
+- **seq_analysis.ipynb** - notebook for evaluating novelty and diversity and other results.
+- **full_zdna_vqvae.ipynb**, **full_zdna_diff.ipynb**, **full_zdna_wgan.ipynb** - notebooks with training processes and generation of synthetic data.
 It was used to train models in first place.  
 
-**ml_code** folder contains saved model and notebooks for experiments.
+**saved_models** folder contains saved model and notebooks for experiments.
+
 **figures** folder has results of classification and feature importance results.
+
 
 
 

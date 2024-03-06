@@ -25,12 +25,12 @@ Experiments with deep learning models are stored in [notebooks](https://github.c
     
   - **full_zdna_vqvae.ipynb**, **full_zdna_diff.ipynb**, **full_zdna_wgan.ipynb** - notebooks with training processes and generation of synthetic data. 
 
-- **saved_models** folder contains saved model and notebooks for experiments.
-    - **Detection.ipynb** - notebook for discriminative analysis of synthetic data.
+- **saved_models** folder contains saved models used in notebooks.
+    - trained diffusion models are available [here](https://drive.google.com/drive/folders/1VaHR9LZ0GmmAMcQXb8XpEg9NUdo1-JCc?usp=sharing).
 
-- **figures** folder has results of classification and feature importance results.
-   - **Detection.ipynb** - notebook for discriminative analysis of synthetic data.
-
+- **scripts** folder contains additional data from chip-seq experiments and [sparse_vector](https://github.com/Nazar1997/Sparse_vector/tree/8a8b6292ebae6a111845b35c9d890f2fecd301af) for preprocessing.
+   
+- **scripts** folder contains additional data from chip-seq experiments and [sparse_vector](https://github.com/Nazar1997/Sparse_vector/tree/8a8b6292ebae6a111845b35c9d890f2fecd301af) for preprocessing.
 
 
 

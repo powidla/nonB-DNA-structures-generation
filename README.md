@@ -21,6 +21,8 @@ Experiments with deep learning models are stored in [notebooks](https://github.c
 
   - **Detection.ipynb** - notebook for discriminative analysis of synthetic data.
     
+  - **HDNA_IRF.ipynb** - notebook for evaluating alignment score for H-DNA.
+    
   - **seq_analysis.ipynb** - notebook for evaluating novelty and diversity and other results.
     
   - **full_zdna_vqvae.ipynb**, **full_zdna_diff.ipynb**, **full_zdna_wgan.ipynb** - notebooks with training processes and generation of synthetic data. 
